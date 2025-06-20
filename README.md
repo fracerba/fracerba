@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Fracesco
+## Hi there 👋, I'm Francesco
 
 <div style="display: flex; justify-content: center;">
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fracerba&theme=transparent&show_icons=true">
