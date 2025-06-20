@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Fracesco
 
+<div style="display: flex; justify-content: center;">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fracerba&theme=transparent&show_icons=true">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fracerba&theme=transparent&layout=compact">
+</div>
+
+## 42 Profile
+[![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba)](https://github.com/oakoudad/badge42)
+
+## 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,bootstrap,py,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
 <!--
 **fracerba/fracerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
