@@ -6,7 +6,7 @@
 </div>
 
 ## 42 Profile
-[![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba)](https://github.com/oakoudad/badge42)
+[![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,bootstrap,py,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
