@@ -22,9 +22,9 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![Studying](https://skillicons.dev/icons?i=css,ts,nextjs)](https://skillicons.dev)
 
 ### Spoken Languages
-- 🇮🇹 Italian (native)
-- 🇬🇧 English
-- 🇪🇸 Spanish
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="20"/> English  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1f8.svg" width="20"/> Spanish  
 
 <!--
 **fracerba/fracerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
