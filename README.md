@@ -19,7 +19,7 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,bootstrap,py,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
 
 ### Currently Studying
-[![Studying](https://skillicons.dev/icons?i=css,ts,nextjs)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=css,ts,nextjs,haskell)](https://skillicons.dev)
 
 ### Spoken Languages
 <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
