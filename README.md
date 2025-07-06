@@ -16,10 +16,10 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages & Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,bootstrap,py,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,bootstrap,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
 
 ### Currently Studying
-[![Studying](https://skillicons.dev/icons?i=css,ts,react,vite,nextjs,haskell)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=react,vite,nextjs,haskell)](https://skillicons.dev)
 
 ### Spoken Languages
 <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
