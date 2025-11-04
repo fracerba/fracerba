@@ -16,10 +16,21 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages & Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,bootstrap,django,bash,linux,docker,git,github,vscode,notion)](https://skillicons.dev)
 
-### Currently Studying
-[![Studying](https://skillicons.dev/icons?i=react,vite,nextjs,haskell)](https://skillicons.dev)
+### Languages
+[![Learned Languages](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,bash)](https://skillicons.dev)
+
+#### Currently studying
+[![Studying Languages](https://skillicons.dev/icons?i=kotlin,ocaml)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Learned Frameworks](https://skillicons.dev/icons?i=bootstrap,django)](https://skillicons.dev)
+
+#### Currently studying
+[![Studying Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Learned Tools](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,notion)](https://skillicons.dev)
 
 ### Spoken Languages
 <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
