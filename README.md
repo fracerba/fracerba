@@ -27,7 +27,7 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![Learned Frameworks](https://skillicons.dev/icons?i=bootstrap,django)](https://skillicons.dev)
 
 #### Currently studying
-[![Studying Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite)](https://skillicons.dev)
+[![Studying Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
 
 ### Tools & Platforms
 [![Learned Tools](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,notion)](https://skillicons.dev)
