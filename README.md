@@ -18,19 +18,22 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 ## 🛠️ Languages & Skills
 
 ### Languages
-[![Learned Languages](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,bash)](https://skillicons.dev)
+[![Learned](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,javascript,typescript,python,assembly,bash&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Currently studying
-[![Studying Languages](https://skillicons.dev/icons?i=kotlin,ocaml)](https://skillicons.dev)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=kotlin,ocaml&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Frameworks & Libraries
-[![Learned Frameworks](https://skillicons.dev/icons?i=bootstrap,django)](https://skillicons.dev)
+[![Learned](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,django&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Currently studying
-[![Studying Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,tailwindcss,svelte,flutter&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Tools & Platforms
-[![Learned Tools](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,notion)](https://skillicons.dev)
+[![Learned](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,docker,git,github,vscode,virtualbox,notion&titles=true)](https://github.com/LelouchFR/skill-icons)
+
+#### Currently studying
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,figma,k3s,vagrant&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Spoken Languages
 <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
