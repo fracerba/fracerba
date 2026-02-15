@@ -18,24 +18,25 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 ## 🛠️ Languages & Skills
 
 ### Programming Languages
-[![Learned](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash,assembly&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Learned](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,assembly&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Currently studying
-[![Studying](https://go-skill-icons.vercel.app/api/icons?i=kotlin,ocaml&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,ocaml,dart&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Web Development
 #### Frontend
 [![Learned](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,bootstrap&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Currently studying
-[![Studying](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nextjs,tailwindcss,svelte&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwindcss,svelte&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Backend
-[![Learned](https://go-skill-icons.vercel.app/api/icons?i=django&titles=true)](https://github.com/LelouchFR/skill-icons)
+##### Currently studying
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=django&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Mobile Development
 #### Currently studying
-[![Studying](https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### DevOps & Tools
 [![Learned](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,docker,git,github,virtualbox&titles=true)](https://github.com/LelouchFR/skill-icons)
@@ -44,7 +45,7 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![Studying](https://go-skill-icons.vercel.app/api/icons?i=k3s,vagrant&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Design & Productivity
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,notion,figma&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,notion,figma&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Spoken Languages
 <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
