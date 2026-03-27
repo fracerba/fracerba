@@ -18,10 +18,10 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 ## 🛠️ Languages & Skills
 
 ### Programming Languages
-[![Learned](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,assembly&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Learned](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,javascript,typescript,python,bash,assembly&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 #### Currently studying
-[![Studying](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,ocaml,dart&titles=true)](https://github.com/LelouchFR/skill-icons)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=kotlin,ocaml,dart,rust&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Web Development
 #### Frontend
