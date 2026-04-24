@@ -15,6 +15,20 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 ## 42 Profile
 [![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+### Common Core
+| Project | Score |
+|---------|-------|
+| **Libft** | [![fracerba's 42 Libft Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2819292)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2819292) |
+| **get_next_line** | [![fracerba's 42 get_next_line Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2879737)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2879737) |
+| **Born2beroot** | [![fracerba's 42 Born2beroot Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882707)](https://projects.intra.42.fr/projects/born2beroot/projects_users/2882707) |
+| **ft_printf** | [![fracerba's 42 ft_printf Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882708)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2882708) |
+| **so_long** | [![fracerba's 42 so_long Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2917598)](https://projects.intra.42.fr/projects/so_long/projects_users/2917598) |
+| **push_swap** | [![fracerba's 42 push_swap Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2951628)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2951628) |
+| **minitalk** | [![fracerba's 42 minitalk Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2997828)](https://projects.intra.42.fr/projects/minitalk/projects_users/2997828) |
+| **Philosophers** | [![fracerba's 42 Philosophers Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3020929)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/3020929) |
+| **minishell** | [![fracerba's 42 minishell Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3055214)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/3055214) |
+| **NetPractice** | [![fracerba's 42 NetPractice Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3353226)](https://projects.intra.42.fr/projects/netpractice/projects_users/3353226) |
+
 ## 🛠️ Languages & Skills
 
 ### Programming Languages
