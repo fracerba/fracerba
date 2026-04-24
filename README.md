@@ -13,7 +13,7 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 </div>
 
 ## 42 Profile
-[![fracerba's 42 stats](https://badge.mediaplus.ma/darkblue/fracerba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fracerba's 42 stats](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/stats?cursusId=21&coalitionId=piscine)](https://42cv.dev)
 
 ### Common Core
 | Project | Score |
