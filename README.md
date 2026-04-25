@@ -16,18 +16,23 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![fracerba's 42 stats](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/stats?cursusId=21&coalitionId=piscine)](https://42cv.dev)
 
 ### Common Core
-| Project | Score |
-|---------|-------|
-| **Libft** | [![fracerba's 42 Libft Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2819292)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2819292) |
-| **get_next_line** | [![fracerba's 42 get_next_line Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2879737)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2879737) |
-| **Born2beroot** | [![fracerba's 42 Born2beroot Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882707)](https://projects.intra.42.fr/projects/born2beroot/projects_users/2882707) |
-| **ft_printf** | [![fracerba's 42 ft_printf Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882708)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2882708) |
-| **so_long** | [![fracerba's 42 so_long Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2917598)](https://projects.intra.42.fr/projects/so_long/projects_users/2917598) |
-| **push_swap** | [![fracerba's 42 push_swap Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2951628)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2951628) |
-| **minitalk** | [![fracerba's 42 minitalk Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2997828)](https://projects.intra.42.fr/projects/minitalk/projects_users/2997828) |
-| **Philosophers** | [![fracerba's 42 Philosophers Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3020929)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/3020929) |
-| **minishell** | [![fracerba's 42 minishell Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3055214)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/3055214) |
-| **NetPractice** | [![fracerba's 42 NetPractice Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3353226)](https://projects.intra.42.fr/projects/netpractice/projects_users/3353226) |
+| Project | Score | Project | Score |
+|---------|-------|---------|-------|
+| **Libft** | [![fracerba's 42 Libft Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2819292)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2819292) | **CPP Module 00** | [![fracerba's 42 CPP Module 00 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3353227)](https://projects.intra.42.fr/projects/cpp-module-00/projects_users/3353227) |
+| **get_next_line** | [![fracerba's 42 get_next_line Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2879737)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2879737) | **CPP Module 01** | [![fracerba's 42 CPP Module 01 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3359079)](https://projects.intra.42.fr/projects/cpp-module-01/projects_users/3359079) |
+| **Born2beroot** | [![fracerba's 42 Born2beroot Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882707)](https://projects.intra.42.fr/projects/born2beroot/projects_users/2882707) | **CPP Module 02** | [![fracerba's 42 CPP Module 02 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3392441)](https://projects.intra.42.fr/projects/cpp-module-02/projects_users/3392441) |
+| **ft_printf** | [![fracerba's 42 ft_printf Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2882708)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2882708) | **CPP Module 03** | [![fracerba's 42 CPP Module 03 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3397410)](https://projects.intra.42.fr/projects/cpp-module-03/projects_users/3397410) |
+| **so_long** | [![fracerba's 42 so_long Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2917598)](https://projects.intra.42.fr/projects/so_long/projects_users/2917598) | **CPP Module 04** | [![fracerba's 42 CPP Module 04 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3400869)](https://projects.intra.42.fr/projects/cpp-module-04/projects_users/3400869) |
+| **push_swap** | [![fracerba's 42 push_swap Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2951628)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2951628) | **cub3d** | [![fracerba's 42 cub3d Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3422793)](https://projects.intra.42.fr/projects/cub3d/projects_users/3422793) |
+| **minitalk** | [![fracerba's 42 minitalk Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/2997828)](https://projects.intra.42.fr/projects/minitalk/projects_users/2997828) | **CPP Module 05** | [![fracerba's 42 CPP Module 05 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3474381)](https://projects.intra.42.fr/projects/cpp-module-05/projects_users/3474381) |
+| **Philosophers** | [![fracerba's 42 Philosophers Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3020929)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/3020929) | **CPP Module 06** | [![fracerba's 42 CPP Module 06 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3493301)](https://projects.intra.42.fr/projects/cpp-module-06/projects_users/3493301) |
+| **minishell** | [![fracerba's 42 minishell Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3055214)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/3055214) | **CPP Module 07** | [![fracerba's 42 CPP Module 07 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3513410)](https://projects.intra.42.fr/projects/cpp-module-07/projects_users/3513410) |
+| **NetPractice** | [![fracerba's 42 NetPractice Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3353226)](https://projects.intra.42.fr/projects/netpractice/projects_users/3353226) | **CPP Module 08** | [![fracerba's 42 CPP Module 08 Score](https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/3514667)](https://projects.intra.42.fr/projects/cpp-module-08/projects_users/3514667) |
+
+### Masteries
+| Project | Score | Project | Score |
+|---------|-------|---------|-------|
+
 
 ## 🛠️ Languages & Skills
 
