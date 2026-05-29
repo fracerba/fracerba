@@ -304,6 +304,28 @@ I'm interested in game development and cybersecurity, but I love doing anything.
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <strong><a href="https://github.com/fracerba/dr-quine">dr-quine</a></strong>
+      </td>
+      <td align="center">
+        <a href="https://projects.intra.42.fr/projects/42cursus-dr-quine/projects_users/4914458">
+          <img src="https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/4914458" alt="fracerba's 42 dr-quine Score" />
+        </a>
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+        <strong><a href="https://github.com/fracerba/avaj-launcher">avaj-launcher</a></strong>
+      </td>
+      <td align="center">
+        <a href="https://projects.intra.42.fr/projects/42cursus-avaj-launcher/projects_users/4940660">
+          <img src="https://42cv.dev/api/badge/cmocyhf0m00060ko9eszibncm/project/4940660" alt="fracerba's 42 avaj-launcher Score" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
