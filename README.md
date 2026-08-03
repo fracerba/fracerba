@@ -362,6 +362,6 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,notion,figma&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Spoken Languages
-<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)
-<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="20"/> English
-<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1f8.svg" width="20"/> Spanish
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20"/> Italian (native)  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="20"/> English  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1f8.svg" width="20"/> Spanish   
